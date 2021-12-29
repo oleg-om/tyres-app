@@ -1,0 +1,6 @@
+*.log
+webroot/xls/
+tmp
+webroot/img/
+*.xls
+webroot/phpmy/

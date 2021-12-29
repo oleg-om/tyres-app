@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^files/(.*)$ files/$1    [L,QSA]
+</IfModule>
+
+
+
